@@ -1,1 +1,3 @@
-FNAG Testing News Thing i guess
+handlers.ReturnCurrentVersionNew = function(args){
+    return { "ResultCode":0,"BannedUsers":"0","MOTD":"<color=red> FNAG Testing News and Version</color>","SynchTime":"WAITING FOR FETCH","Version":"0.0.1", "Message":"Live"}
+}
